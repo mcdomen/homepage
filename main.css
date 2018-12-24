@@ -7,3 +7,7 @@ body {
   background-image: url("./stars.gif");
   background-color: turquoise;
 }
+
+#breh {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
