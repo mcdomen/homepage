@@ -1,17 +1,7 @@
-.jumbotron {
-  font-family: "Comic Sans MS", cursive, sans-serif;
-}
-
 body {
   background-image: url("./stripes-light.png");
 }
 
-#button {
-  font-family: "Roboto", sans-serif;
-  font-weight: bold;
-  background-color: red;
-  color: darkred;
-}
 
 #content {
   background-image: url("./stars.gif");
