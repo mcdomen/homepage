@@ -1,7 +1,12 @@
 .jumbotron {
-  font-family: "IBM Plex Mono", monospace;
+  font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
 body {
   background-image: url("./stripes-light.png");
+}
+
+#button {
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
 }
