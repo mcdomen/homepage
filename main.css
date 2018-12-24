@@ -1,13 +1,21 @@
 body {
-  background-image: url("./stripes-light.png");
+    background-image: url("./stripes-light.png");
 }
 
-
 #content {
-  background-image: url("./stars.gif");
-  background-color: turquoise;
+    background-image: url("./stars.gif");
+    background-color: turquoise;
 }
 
 #breh {
-  font-family: "Comic Sans MS", cursive, sans-serif;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+div {
+    overflow: hidden;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
 }
